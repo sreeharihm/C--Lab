@@ -1,0 +1,11 @@
+C:\pinnacle\C#-Lab\ASPNET_Core_MONGO_DB\ASPNET_Core_MONGO_DB\ASPNET_Core_MONGO_DB\bin\Debug\netcoreapp2.1\ASPNET_Core_MONGO_DB.deps.json
+C:\pinnacle\C#-Lab\ASPNET_Core_MONGO_DB\ASPNET_Core_MONGO_DB\ASPNET_Core_MONGO_DB\bin\Debug\netcoreapp2.1\ASPNET_Core_MONGO_DB.runtimeconfig.json
+C:\pinnacle\C#-Lab\ASPNET_Core_MONGO_DB\ASPNET_Core_MONGO_DB\ASPNET_Core_MONGO_DB\bin\Debug\netcoreapp2.1\ASPNET_Core_MONGO_DB.runtimeconfig.dev.json
+C:\pinnacle\C#-Lab\ASPNET_Core_MONGO_DB\ASPNET_Core_MONGO_DB\ASPNET_Core_MONGO_DB\bin\Debug\netcoreapp2.1\ASPNET_Core_MONGO_DB.dll
+C:\pinnacle\C#-Lab\ASPNET_Core_MONGO_DB\ASPNET_Core_MONGO_DB\ASPNET_Core_MONGO_DB\obj\Debug\netcoreapp2.1\ASPNET_Core_MONGO_DB.csprojResolveAssemblyReference.cache
+C:\pinnacle\C#-Lab\ASPNET_Core_MONGO_DB\ASPNET_Core_MONGO_DB\ASPNET_Core_MONGO_DB\obj\Debug\netcoreapp2.1\ASPNET_Core_MONGO_DB.csproj.CoreCompileInputs.cache
+C:\pinnacle\C#-Lab\ASPNET_Core_MONGO_DB\ASPNET_Core_MONGO_DB\ASPNET_Core_MONGO_DB\obj\Debug\netcoreapp2.1\ASPNET_Core_MONGO_DB.AssemblyInfoInputs.cache
+C:\pinnacle\C#-Lab\ASPNET_Core_MONGO_DB\ASPNET_Core_MONGO_DB\ASPNET_Core_MONGO_DB\obj\Debug\netcoreapp2.1\ASPNET_Core_MONGO_DB.AssemblyInfo.cs
+C:\pinnacle\C#-Lab\ASPNET_Core_MONGO_DB\ASPNET_Core_MONGO_DB\ASPNET_Core_MONGO_DB\bin\Debug\netcoreapp2.1\ASPNET_Core_MONGO_DB.pdb
+C:\pinnacle\C#-Lab\ASPNET_Core_MONGO_DB\ASPNET_Core_MONGO_DB\ASPNET_Core_MONGO_DB\obj\Debug\netcoreapp2.1\ASPNET_Core_MONGO_DB.dll
+C:\pinnacle\C#-Lab\ASPNET_Core_MONGO_DB\ASPNET_Core_MONGO_DB\ASPNET_Core_MONGO_DB\obj\Debug\netcoreapp2.1\ASPNET_Core_MONGO_DB.pdb
