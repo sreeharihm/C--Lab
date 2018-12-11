@@ -1,0 +1,11 @@
+c:\users\sreehari.hareendran\source\repos\My-BlockChain\My-BlockChain\bin\Debug\netcoreapp2.1\My-BlockChain.deps.json
+c:\users\sreehari.hareendran\source\repos\My-BlockChain\My-BlockChain\bin\Debug\netcoreapp2.1\My-BlockChain.runtimeconfig.json
+c:\users\sreehari.hareendran\source\repos\My-BlockChain\My-BlockChain\bin\Debug\netcoreapp2.1\My-BlockChain.runtimeconfig.dev.json
+c:\users\sreehari.hareendran\source\repos\My-BlockChain\My-BlockChain\bin\Debug\netcoreapp2.1\My-BlockChain.dll
+c:\users\sreehari.hareendran\source\repos\My-BlockChain\My-BlockChain\obj\Debug\netcoreapp2.1\My-BlockChain.csprojResolveAssemblyReference.cache
+c:\users\sreehari.hareendran\source\repos\My-BlockChain\My-BlockChain\obj\Debug\netcoreapp2.1\My-BlockChain.csproj.CoreCompileInputs.cache
+c:\users\sreehari.hareendran\source\repos\My-BlockChain\My-BlockChain\obj\Debug\netcoreapp2.1\My-BlockChain.AssemblyInfoInputs.cache
+c:\users\sreehari.hareendran\source\repos\My-BlockChain\My-BlockChain\obj\Debug\netcoreapp2.1\My-BlockChain.AssemblyInfo.cs
+c:\users\sreehari.hareendran\source\repos\My-BlockChain\My-BlockChain\bin\Debug\netcoreapp2.1\My-BlockChain.pdb
+c:\users\sreehari.hareendran\source\repos\My-BlockChain\My-BlockChain\obj\Debug\netcoreapp2.1\My-BlockChain.dll
+c:\users\sreehari.hareendran\source\repos\My-BlockChain\My-BlockChain\obj\Debug\netcoreapp2.1\My-BlockChain.pdb
